@@ -1,0 +1,6 @@
+{
+  "name": "aurora-dawn",
+  "version": "0.1.0",
+  "description": "A dithered backdrop for the desktop app: landscapes and city skylines that take turns, each with a picture for light mode and one for dark, kept low in the window so the chat stays clear",
+  "license": "MIT"
+}

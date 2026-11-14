@@ -1,0 +1,5 @@
+{
+  "name": "aurora-dawn",
+  "owner": { "name": "faiqhilman13" },
+  "plugins": [{ "name": "aurora-dawn", "source": "./" }]
+}
